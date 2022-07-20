@@ -48,7 +48,7 @@ border-radius: 25px;
 }
 .banner-img{
   width: 50%;
-  background-image: url(./image/my-banner.pngg);
+  background-image: url(./image/my-banner.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
