@@ -1,0 +1,59 @@
+/* Banner section Start */
+.banner{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+height: 100vh;
+
+}
+
+.banner-content{
+background-color: #161616;
+display: flex;
+width: 80%;
+height: 80vh;
+border-radius: 25px;
+}
+
+.banner-text{
+   color: white;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding-left: 7%;
+}
+
+.banner-text h1{
+  font-size: 4rem;
+  line-height: 1.4;
+  font-weight: 900;
+}
+
+.banner-text p{
+  font-size: 1.2rem;
+  line-height: 1.9;
+  margin-top: 5%;
+}
+
+.banner-btn{
+  margin-top: 5%;
+  font-size: 30px;
+  background-color: red;
+  color: white;
+  padding: 3% 4%;
+  border-radius: 5px;
+}
+.banner-img{
+  width: 50%;
+  background-image: url(./image/my-banner.pngg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+ 
+}
+
+/* Banner section Start */
